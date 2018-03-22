@@ -1,7 +1,5 @@
         
-        html{
-            min-width: 1600;
-        }
+
         .container-fluid{
             padding: 0px;
         }
@@ -313,7 +311,7 @@
             padding-left: 0%;
         }
         body{
-            min-width: 1400px;
+            min-width: 1550px;
         }
         .chevron{
             height: 150px;
